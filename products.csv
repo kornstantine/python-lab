@@ -1,0 +1,11 @@
+date,product,sales,region,category
+2025-09-01,Apple,120,North,Fruit
+2025-09-02,Banana,85,South,Fruit
+2025-09-03,Carrot,60,East,Vegetable
+2025-09-04,Milk,200,West,Dairy
+2025-09-05,Bread,150,North,Bakery
+2025-09-06,Orange,90,South,Fruit
+2025-09-07,Cheese,110,East,Dairy
+2025-09-08,Tomato,70,West,Vegetable
+2025-09-09,Butter,95,North,Dairy
+2025-09-10,Grapes,130,South,Fruit
